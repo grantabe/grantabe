@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
 - <b>Information Technology</b>
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/grantabe/ActiveDirectoryHomeLab/blob/main/README.md)
 - <b>Cybersecurity</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Nessus Vulnerability Scanner: Remediation](https://github.com/joshmadakor1/Jwipe.PowerShell)
