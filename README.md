@@ -5,10 +5,10 @@
 - <b>Information Technology</b>
   - [Active Directory Homelab](https://github.com/grantabe/ActiveDirectoryHomeLab)
 - <b>Cybersecurity</b>
-  - [Nessus Vulnerability Scanner: Remediation](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Nessus Vulnerability Scanner: Remediation](https://github.com/grantabe/NessusScanner)
 
 - <b>Coding</b>
-  - [Python: Rock, Paper, Scissors](https://github.com/grantabe/rockpaperscissors.git)
+  - [Python: Rock, Paper, Scissors](https://github.com/grantabe/rockpaperscissors)
   
 <h2>Certification(s)</h2>
 
