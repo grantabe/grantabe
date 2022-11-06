@@ -7,7 +7,12 @@
 - <b>Cybersecurity</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Nessus Vulnerability Scanner: Remediation](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - <b>Information Technology</b>
+  - [Active Directory Homelab](https://github.com/grantabe/ActiveDirectoryHomeLab)
 
+- <b>Coding</b>
+  - [Python: Rock, Paper, Scissors](https://github.com/joshmadakor1/Sentinel-Lab)
+  
 <h2>Certification(s)</h2>
 
  - [CompTIA Security+](https://www.credly.com/badges/ec7a6488-35db-4f3e-8d0f-c75cbb79f0bc/public_url)
