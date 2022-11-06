@@ -8,7 +8,7 @@
   - [Nessus Vulnerability Scanner: Remediation](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 - <b>Coding</b>
-  - [Python: Rock, Paper, Scissors](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Python: Rock, Paper, Scissors](https://github.com/grantabe/rockpaperscissors.git)
   
 <h2>Certification(s)</h2>
 
