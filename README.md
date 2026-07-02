@@ -9,6 +9,7 @@
 
 - <b>Coding</b>
   - [Python: Rock, Paper, Scissors](https://github.com/grantabe/rockpaperscissors)
+  - [AI OSINT Agent](https://github.com/grantabe/osint-recon-agent)
   
 <h2>Certification(s)</h2>
 
