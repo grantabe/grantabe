@@ -12,8 +12,8 @@ like the PJPT.
 - **[AI OSINT Agent](https://github.com/grantabe/osint-recon-agent)** — AI agent that
   automates open-source intelligence gathering and summarizes findings.
 - **[Active Directory Home Lab](https://github.com/grantabe/ActiveDirectoryHomeLab)**
-  *(being rebuilt)* — Self-built AD environment for practicing enterprise attack and
-  defense techniques.
+  — Simulated corporate network in VirtualBox with a domain controller
+  and Active Directory, including Group Policy Objects created and linked to client machines.
 - **[Nessus Vulnerability Scanning & Remediation](https://github.com/grantabe/NessusScanner)**
   — Scanning hosts with Nessus, analyzing findings, and remediating vulnerabilities.
 
