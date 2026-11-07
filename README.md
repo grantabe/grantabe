@@ -1,28 +1,26 @@
-<h1>Hi, I'm Grant! <br/> <a href="https://www.linkedin.com/in/grant-abrams-52b04b19b/">Cybersecurity Professional</a></h1>
+# Hi, I'm Grant
 
-<h2>👨‍💻 Cybersecurity & IT Projects:</h2>
+Cybersecurity engineer working on who and what gets access to the network: zero
+trust (Zscaler), network access control (Cisco ISE, EAP-TLS, PKI), and identity
+security across multi-cloud environments. I hold the CCNA and
+[Security+](https://www.credly.com/badges/ec7a6488-35db-4f3e-8d0f-c75cbb79f0bc/public_url),
+I'm completing a Master of Information and Cybersecurity at UC Berkeley, and I'm
+currently working toward red team roles through hands-on labs and certifications
+like the PJPT.
 
-- <b>Information Technology</b>
-  - [Active Directory Homelab](https://github.com/grantabe/ActiveDirectoryHomeLab)
-- <b>Cybersecurity</b>
-  - [Nessus Vulnerability Scanner: Remediation](https://github.com/grantabe/NessusScanner)
+## Featured projects
+- **[AI OSINT Agent](https://github.com/grantabe/osint-recon-agent)** — AI agent that
+  automates open-source intelligence gathering and summarizes findings.
+- **[Active Directory Home Lab](https://github.com/grantabe/ActiveDirectoryHomeLab)**
+  *(being rebuilt)* — Self-built AD environment for practicing enterprise attack and
+  defense techniques.
+- **[Nessus Vulnerability Scanning & Remediation](https://github.com/grantabe/NessusScanner)**
+  — Scanning hosts with Nessus, analyzing findings, and remediating vulnerabilities.
 
-- <b>Coding</b>
-  - [Python: Rock, Paper, Scissors](https://github.com/grantabe/rockpaperscissors)
-  - [AI OSINT Agent](https://github.com/grantabe/osint-recon-agent)
-  
-<h2>Certification(s)</h2>
+<!-- Uncomment once the repo is pushed:
+- **[Cloud IAM Audit Scripts](link)** *(in progress)* — Python scripts that enumerate
+  groups, memberships, and permissions across Azure/Entra ID and AWS.
+-->
 
- - [CompTIA Security+](https://www.credly.com/badges/ec7a6488-35db-4f3e-8d0f-c75cbb79f0bc/public_url)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="GrantA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GrantA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/grn.t/
-[linkedin]: https://www.linkedin.com/in/grant-abrams-52b04b19b/
-
+## Connect
+[LinkedIn](https://www.linkedin.com/in/grant-abrams-52b04b19b/)
