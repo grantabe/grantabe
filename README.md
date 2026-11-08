@@ -11,16 +11,16 @@ like the PJPT.
 ## Featured projects
 - **[AI OSINT Agent](https://github.com/grantabe/osint-recon-agent)** — AI agent that
   automates open-source intelligence gathering and summarizes findings.
+- **[Cloud IAM Audit Scripts](https://github.com/grantabe/cloud-iam-audit)** — PowerShell
+  and Python scripts for access reviews: what Entra ID group members actually do in
+  Azure, and who holds which permission sets across AWS accounts.
 - **[Active Directory Home Lab](https://github.com/grantabe/ActiveDirectoryHomeLab)**
   — Simulated corporate network in VirtualBox with a domain controller
   and Active Directory, including Group Policy Objects created and linked to client machines.
 - **[Nessus Vulnerability Scanning & Remediation](https://github.com/grantabe/NessusScanner)**
   — Scanning hosts with Nessus, analyzing findings, and remediating vulnerabilities.
 
-<!-- Uncomment once the repo is pushed:
-- **[Cloud IAM Audit Scripts](link)** *(in progress)* — Python scripts that enumerate
-  groups, memberships, and permissions across Azure/Entra ID and AWS.
--->
-
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/grant-abrams-52b04b19b/)
+[LinkedIn](https://www.linkedin.com/in/grantdabrams/)
+
+
